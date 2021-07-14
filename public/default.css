@@ -1,0 +1,13 @@
+body{
+	margin: auto;
+	max-width:  50%;
+	font-family: sans-serif;
+}
+.blog-post{
+	padding-bottom: 10px;
+}
+.blog-post + .blog-post{
+	margin-top:  10px;
+	padding-top: 10px;
+	border-top: 1px solid gray;
+}
