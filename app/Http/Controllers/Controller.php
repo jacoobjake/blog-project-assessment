@@ -11,4 +11,5 @@ class Controller extends BaseController
 {
     use AuthorizesRequests, DispatchesJobs, ValidatesRequests;
     //Add some comment for testing
+    //Try another rebase lol
 }
